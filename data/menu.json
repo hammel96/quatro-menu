@@ -1,0 +1,28 @@
+{
+  "Bebidas": [
+    {
+      "nombre": "Flat White",
+      "descripcion": "Espresso doble con leche vaporizada y microespuma sedosa.",
+      "precio": "Q32",
+      "imagen": "https://res.cloudinary.com/demo/image/upload/v1/quatro/flat-white.jpg",
+      "destacado": true,
+      "orden": 1
+    },
+    {
+      "nombre": "Cold Brew de la Casa",
+      "descripcion": "Extracción en frío por 18 horas, notas a cacao y caramelo.",
+      "precio": "Q28",
+      "orden": 2
+    }
+  ],
+  "Postres": [
+    {
+      "nombre": "Tarta de Almendra",
+      "descripcion": "Almendra tostada, mantequilla noisette y miel de flor de azahar.",
+      "precio": "Q35",
+      "imagen": "https://res.cloudinary.com/demo/image/upload/v1/quatro/tarta-almendra.jpg",
+      "destacado": false,
+      "orden": 1
+    }
+  ]
+}
