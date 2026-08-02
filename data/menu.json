@@ -1,10 +1,10 @@
 {
   "Bebidas": [
     {
-      "nombre": "Cafe5",
-      "descripcion": "Cafe",
-      "precio": 29,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698125/es381ylrcl3r56hl0gp4.webp",
+      "nombre": "Maracuya",
+      "descripcion": "es muy delicioso",
+      "precio": "Q36",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698566/ulrlh10al0mmbuakmxue.jpg",
       "disponible": true,
       "destacado": true,
       "orden": 1
@@ -13,7 +13,7 @@
       "nombre": "Cafe1",
       "descripcion": "Es rico",
       "precio": 25,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698119/dzvdb2jvbycp9ymjp69x.webp",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698560/byi14bddlyucoeilw0ax.webp",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -22,7 +22,7 @@
       "nombre": "Cafe2",
       "descripcion": "es cafe",
       "precio": 26,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698121/dfpoqrgjrml4d8jjtlqi.webp",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698562/wrbvrtm90pe3hfoxtbn5.webp",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -31,7 +31,7 @@
       "nombre": "Cafe4",
       "descripcion": "Ejemplo",
       "precio": 28,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698124/ysxymqqaohpfvhgebf3u.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698564/a3weuqpi3g17amrroplu.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -40,10 +40,19 @@
       "nombre": "Cafe3",
       "descripcion": "Bonito",
       "precio": 27,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698123/gvkfmz34ctliihep1am9.webp",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698563/r4abhwl5aiw1fgxwthng.webp",
       "disponible": true,
       "destacado": true,
       "orden": 5
+    },
+    {
+      "nombre": "Cafe5",
+      "descripcion": "Cafe",
+      "precio": 29,
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698565/ixnhmvehonkshve50wvq.webp",
+      "disponible": true,
+      "destacado": true,
+      "orden": 6
     }
   ],
   "Postres": [
@@ -51,7 +60,7 @@
       "nombre": "Pastel1",
       "descripcion": "Es suave",
       "precio": 30,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698127/veqpux2nkvjralavy6yr.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698568/bd7xah37nvokp5cie6g1.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -60,7 +69,7 @@
       "nombre": "Pastel2",
       "descripcion": "es rico",
       "precio": 31,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698128/vkfjijnta7a1xvs7sfem.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698568/t80fguttahckzx7s4jjp.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -69,7 +78,7 @@
       "nombre": "Pastel3",
       "descripcion": "sabe a cafe",
       "precio": 21,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698130/rtaa93rwk80aqzivp1ac.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698570/p8st9zorypmejh763utc.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -78,7 +87,7 @@
       "nombre": "Pastel4",
       "descripcion": "delicioso",
       "precio": 32,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698131/phf6uxvecctv0zcvbdjb.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698571/w4oqxcimiqior3cyqam1.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -87,7 +96,7 @@
       "nombre": "Pastel5",
       "descripcion": "cremoso",
       "precio": 33,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698132/ycchwtm80eeamr8wvhxw.webp",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698571/w93walxccjqtwuxcztsw.webp",
       "disponible": true,
       "destacado": false,
       "orden": 0
