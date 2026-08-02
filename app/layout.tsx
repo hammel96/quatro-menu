@@ -26,7 +26,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es" className={`${playfair.variable} ${manrope.variable}`}>
-      <body className="min-h-screen bg-ink font-sans text-ivory antialiased">
+      <body className="min-h-screen bg-forest font-sans text-ivory antialiased">
         {children}
       </body>
     </html>
