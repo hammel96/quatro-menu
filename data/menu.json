@@ -4,7 +4,7 @@
       "nombre": "Cafe5",
       "descripcion": "Cafe",
       "precio": 29,
-      "imagen": "https://drive.google.com/file/d/1Ppsvzvsva5LoKv3p0ILVPgdAYYeO8NHq/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698125/es381ylrcl3r56hl0gp4.webp",
       "disponible": true,
       "destacado": true,
       "orden": 1
@@ -13,7 +13,7 @@
       "nombre": "Cafe1",
       "descripcion": "Es rico",
       "precio": 25,
-      "imagen": "https://drive.google.com/file/d/13yaowL-N7jxqHLrQ00ElcYc4e_mCdQcv/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698119/dzvdb2jvbycp9ymjp69x.webp",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -22,7 +22,7 @@
       "nombre": "Cafe2",
       "descripcion": "es cafe",
       "precio": 26,
-      "imagen": "https://drive.google.com/file/d/1Udg0LmUJqadwcxTTEvMOxw6Jinil4Xjn/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698121/dfpoqrgjrml4d8jjtlqi.webp",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -31,7 +31,7 @@
       "nombre": "Cafe4",
       "descripcion": "Ejemplo",
       "precio": 28,
-      "imagen": "https://drive.google.com/file/d/1W8W1jkgdUaS1jd0aJzGqcI5D501t1kLD/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698124/ysxymqqaohpfvhgebf3u.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -40,7 +40,7 @@
       "nombre": "Cafe3",
       "descripcion": "Bonito",
       "precio": 27,
-      "imagen": "https://drive.google.com/file/d/1mwB-nfVsjCQEoo6ujY7rETYqbmJkrao0/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698123/gvkfmz34ctliihep1am9.webp",
       "disponible": true,
       "destacado": true,
       "orden": 5
@@ -51,7 +51,7 @@
       "nombre": "Pastel1",
       "descripcion": "Es suave",
       "precio": 30,
-      "imagen": "https://drive.google.com/file/d/1W8W1jkgdUaS1jd0aJzGqcI5D501t1kLD/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698127/veqpux2nkvjralavy6yr.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -60,7 +60,7 @@
       "nombre": "Pastel2",
       "descripcion": "es rico",
       "precio": 31,
-      "imagen": "https://drive.google.com/file/d/1Q3Ex-s9VoDrKukKeqMJthruKvnVAd8NG/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698128/vkfjijnta7a1xvs7sfem.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -69,7 +69,7 @@
       "nombre": "Pastel3",
       "descripcion": "sabe a cafe",
       "precio": 21,
-      "imagen": "https://drive.google.com/file/d/1rA13IuxyO7XhB21D-n6Crw3D_Y2N5CeV/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698130/rtaa93rwk80aqzivp1ac.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -78,7 +78,7 @@
       "nombre": "Pastel4",
       "descripcion": "delicioso",
       "precio": 32,
-      "imagen": "https://drive.google.com/file/d/1h0y5ce_aK-pytR1ubWKWvrvKLSnThIHN/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698131/phf6uxvecctv0zcvbdjb.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -87,7 +87,7 @@
       "nombre": "Pastel5",
       "descripcion": "cremoso",
       "precio": 33,
-      "imagen": "https://drive.google.com/file/d/1M5qaut2e46RZRKCz1T_eJzuo3lW4HzOc/view?usp=drive_link",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698132/ycchwtm80eeamr8wvhxw.webp",
       "disponible": true,
       "destacado": false,
       "orden": 0
