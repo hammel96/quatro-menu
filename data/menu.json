@@ -4,7 +4,7 @@
       "nombre": "Maracuya",
       "descripcion": "es muy delicioso",
       "precio": "Q36",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698864/pyrtvjibtpzkijs171ap.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698970/dgv7tsmmqjgtlhotfqnj.jpg",
       "disponible": true,
       "destacado": true,
       "orden": 1
@@ -13,21 +13,10 @@
       "nombre": "Cafe1",
       "descripcion": "Es rico",
       "precio": 25,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698860/pnnloeiyr06j7wgt8stb.webp",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698962/mkfmdmb25wzeszi9o4zu.webp",
       "disponible": true,
       "destacado": false,
       "orden": 2
-    }
-  ],
-  "Libros": [
-    {
-      "nombre": "La vida es bella",
-      "descripcion": "libro bonito",
-      "precio": "Q150",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698866/ji2o3jprpvo4k7gfqp0d.avif",
-      "disponible": true,
-      "destacado": true,
-      "orden": 1
     }
   ],
   "Postres": [
@@ -35,7 +24,7 @@
       "nombre": "Pastel1",
       "descripcion": "Es suave",
       "precio": 30,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698867/hgyzpiw8utdsqz8c1mdf.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698971/dvflbhtqk8ekxormv6y4.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -44,7 +33,7 @@
       "nombre": "Pastel2",
       "descripcion": "es rico",
       "precio": 31,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698867/x6ifgzaorruparqx5h4i.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698972/oh74xpaxsygnteq6fpu7.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -53,7 +42,7 @@
       "nombre": "Pastel3",
       "descripcion": "sabe a cafe",
       "precio": 21,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698868/zzicf0xskr4avbek5uwc.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698974/x9e6wkkk9jj4bcomvzaq.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -62,7 +51,7 @@
       "nombre": "Pastel4",
       "descripcion": "delicioso",
       "precio": 32,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698869/gfyhnmtu2pmlgyeo2xax.jpg",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698975/snsbeae7ijlyyo3ffwwd.jpg",
       "disponible": true,
       "destacado": false,
       "orden": 0
@@ -71,7 +60,7 @@
       "nombre": "Pastel5",
       "descripcion": "cremoso",
       "precio": 33,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698870/jw5tzh0yn7ykwg6uxnes.webp",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785698976/pnmzkw0blxfiviradqlk.webp",
       "disponible": true,
       "destacado": false,
       "orden": 0
