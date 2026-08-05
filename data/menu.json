@@ -1,105 +1,197 @@
 {
-  "Bebidas": [
+  "Caf?": [
     {
-      "nombre": "Maracuya",
-      "descripcion": "es muy delicioso",
-      "precio": "Q36",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699390/rlw80xvitemxmttzgqmq.jpg",
+      "nombre": "Pistacho Capuchino",
+      "descripcion": "Cremoso con aut?ntico pistacho.",
+      "precio": "Q38",
+      "imagen": null,
       "disponible": true,
       "destacado": true,
+      "orden": 0
+    },
+    {
+      "nombre": "Golden Aura Latte",
+      "descripcion": "Especiado, c?lido y reconfortante.",
+      "precio": "Q38",
+      "imagen": null,
+      "disponible": true,
+      "destacado": true,
+      "orden": 0
+    },
+    {
+      "nombre": "Espresso",
+      "descripcion": "Peque?o, intenso y arom?tico.",
+      "precio": "Q18",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
       "orden": 1
     },
     {
-      "nombre": "Cafe1",
-      "descripcion": "Es rico",
-      "precio": 25,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699385/genhwq92dt9segbsxwgr.webp",
+      "nombre": "Mocha",
+      "descripcion": "Caf? y chocolate en armon?a.",
+      "precio": "Q30",
+      "imagen": null,
       "disponible": true,
-      "destacado": false,
+      "destacado": true,
       "orden": 2
     },
     {
-      "nombre": "Cafe2",
-      "descripcion": "es cafe",
-      "precio": 26,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699387/dqzd4h7luosyvdnl0r0u.webp",
+      "nombre": "Americano",
+      "descripcion": "Intenso y perfectamente equilibrado.",
+      "precio": "Q22",
+      "imagen": null,
       "disponible": true,
       "destacado": false,
       "orden": 3
     },
     {
-      "nombre": "Cafe4",
-      "descripcion": "Ejemplo",
-      "precio": 28,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699388/tlocqfwag9w4cmcf2jfp.jpg",
+      "nombre": "Latte",
+      "descripcion": "Suave, cremoso y reconfortante.",
+      "precio": "Q28",
+      "imagen": null,
       "disponible": true,
       "destacado": false,
       "orden": 4
     },
     {
-      "nombre": "Cafe3",
-      "descripcion": "Bonito",
-      "precio": 27,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699387/lvwkxuckkydqd1qilcr6.webp",
+      "nombre": "Capuchino",
+      "descripcion": "Espresso con espuma aterciopelada.",
+      "precio": "Q28",
+      "imagen": null,
       "disponible": true,
       "destacado": true,
       "orden": 5
     },
     {
-      "nombre": "Cafe5",
-      "descripcion": "Cafe",
-      "precio": 29,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699389/fdwxlfi9khl4nfrktnbg.webp",
+      "nombre": "Caf? Bomb?n",
+      "descripcion": "Dulce, intenso e irresistible.",
+      "precio": "Q28",
+      "imagen": null,
       "disponible": true,
       "destacado": true,
       "orden": 6
     }
   ],
-  "Postres": [
+  "Especialidades Calientes": [
     {
-      "nombre": "Pastel1",
-      "descripcion": "Es suave",
-      "precio": 30,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699390/auxo4mesls4kxihiodl1.jpg",
+      "nombre": "Infusi?n",
+      "descripcion": "Mezclas premium de coco & mango o frutos rojos.",
+      "precio": "Q25",
+      "imagen": null,
       "disponible": true,
-      "destacado": false,
+      "destacado": true,
       "orden": 0
     },
     {
-      "nombre": "Pastel2",
-      "descripcion": "es rico",
-      "precio": 31,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699391/kqt7fms78f3ys4z20hdq.jpg",
+      "nombre": "Chocolate",
+      "descripcion": "Chocolate caliente, intenso y reconfortante.",
+      "precio": "Q25",
+      "imagen": null,
       "disponible": true,
       "destacado": false,
-      "orden": 0
+      "orden": 1
     },
     {
-      "nombre": "Pastel3",
-      "descripcion": "sabe a cafe",
-      "precio": 21,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699392/hufulvfzsphmip37laa5.jpg",
+      "nombre": "Tisana",
+      "descripcion": "Flores y frutas en perfecta armon?a.",
+      "precio": "Q45",
+      "imagen": null,
       "disponible": true,
-      "destacado": false,
-      "orden": 0
+      "destacado": true,
+      "orden": 2
     },
     {
-      "nombre": "Pastel4",
-      "descripcion": "delicioso",
-      "precio": 32,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699393/pxidvmskaf777y8joquf.jpg",
+      "nombre": "Taro",
+      "descripcion": "Cremoso, delicadamente dulce y ex?tico.",
+      "precio": "Q45",
+      "imagen": null,
       "disponible": true,
       "destacado": false,
-      "orden": 0
+      "orden": 3
     },
     {
-      "nombre": "Pastel5",
-      "descripcion": "cremoso",
-      "precio": 33,
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1785699393/scowtlswsb1fe98xmyhm.webp",
+      "nombre": "Cacao Infusi?n",
+      "descripcion": "Infusi?n artesanal, natural y reconfortante.",
+      "precio": "Q28",
+      "imagen": null,
       "disponible": true,
       "destacado": false,
-      "orden": 0
+      "orden": 4
+    },
+    {
+      "nombre": "Matcha",
+      "descripcion": "Inspirado en la tradici?n japonesa. ??",
+      "precio": "Q45",
+      "imagen": null,
+      "disponible": true,
+      "destacado": true,
+      "orden": 5
+    },
+    {
+      "nombre": "Chai Signature Collection",
+      "descripcion": "Cinco mezclas exclusivas inspiradas en la naturaleza.\nElephant ? Turtle ? Flamingo ? Tiger ? Orca",
+      "precio": "Q45",
+      "imagen": null,
+      "disponible": true,
+      "destacado": true,
+      "orden": 6
+    }
+  ],
+  "Panader?a Artesanal": [
+    {
+      "nombre": "Croissant Pistacho",
+      "descripcion": "Pistacho premium en cada bocado.",
+      "precio": "Q38",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 1
+    },
+    {
+      "nombre": "Croissant Nutella",
+      "descripcion": "Nutella cremosa en hojaldre dorado.",
+      "precio": "Q38",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 2
+    },
+    {
+      "nombre": "Croissant Almendras",
+      "descripcion": "Almendras tostadas y hojaldre artesanal.",
+      "precio": "Q38",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 3
+    },
+    {
+      "nombre": "Croissant Mantequilla",
+      "descripcion": "El cl?sico franc?s, reci?n horneado.",
+      "precio": "Q35",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 4
+    },
+    {
+      "nombre": "Galleta Chocochip",
+      "descripcion": "Crujiente por fuera, suave por dentro.",
+      "precio": "Q20",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 5
+    },
+    {
+      "nombre": "Galleta Almendra",
+      "descripcion": "Delicada, crujiente y llena de sabor.",
+      "precio": "Q20",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 6
     }
   ]
 }
