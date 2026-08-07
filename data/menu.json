@@ -4,7 +4,7 @@
       "nombre": "Espresso",
       "descripcion": "Peque?o, intenso y arom?tico.",
       "precio": "Q18",
-      "imagen": null,
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786129386/hcaefhxfl1lhze6qvyp1.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
