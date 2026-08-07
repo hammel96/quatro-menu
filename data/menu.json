@@ -1,24 +1,6 @@
 {
   "Caf?": [
     {
-      "nombre": "Pistacho Capuchino",
-      "descripcion": "Cremoso con aut?ntico pistacho.",
-      "precio": "Q38",
-      "imagen": null,
-      "disponible": true,
-      "destacado": true,
-      "orden": 0
-    },
-    {
-      "nombre": "Golden Aura Latte",
-      "descripcion": "Especiado, c?lido y reconfortante.",
-      "precio": "Q38",
-      "imagen": null,
-      "disponible": true,
-      "destacado": true,
-      "orden": 0
-    },
-    {
       "nombre": "Espresso",
       "descripcion": "Peque?o, intenso y arom?tico.",
       "precio": "Q18",
@@ -28,9 +10,9 @@
       "orden": 1
     },
     {
-      "nombre": "Mocha",
-      "descripcion": "Caf? y chocolate en armon?a.",
-      "precio": "Q30",
+      "nombre": "Pistacho Capuchino",
+      "descripcion": "Cremoso con aut?ntico pistacho.",
+      "precio": "Q38",
       "imagen": null,
       "disponible": true,
       "destacado": true,
@@ -71,6 +53,33 @@
       "disponible": true,
       "destacado": true,
       "orden": 6
+    },
+    {
+      "nombre": "Mocha",
+      "descripcion": "Caf? y chocolate en armon?a.",
+      "precio": "Q30",
+      "imagen": null,
+      "disponible": true,
+      "destacado": true,
+      "orden": 7
+    },
+    {
+      "nombre": "Golden Aura Latte",
+      "descripcion": "Especiado, c?lido y reconfortante.",
+      "precio": "Q38",
+      "imagen": null,
+      "disponible": true,
+      "destacado": true,
+      "orden": 8
+    },
+    {
+      "nombre": "Salted Caramel Latte",
+      "descripcion": "Caramelo salado en perfecta armon?a.",
+      "precio": "Q40",
+      "imagen": null,
+      "disponible": true,
+      "destacado": true,
+      "orden": 9
     }
   ],
   "Especialidades Calientes": [
@@ -192,6 +201,24 @@
       "disponible": true,
       "destacado": false,
       "orden": 6
+    },
+    {
+      "nombre": "Empanadas Argentinas Variedad (3 U)",
+      "descripcion": "Artesanales, doradas y deliciosas.",
+      "precio": "Q60",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 7
+    },
+    {
+      "nombre": "Brownie Bite",
+      "descripcion": "Un bocado de aut?ntico chocolate.",
+      "precio": "Q15",
+      "imagen": null,
+      "disponible": true,
+      "destacado": false,
+      "orden": 8
     }
   ]
 }
