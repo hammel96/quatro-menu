@@ -4,7 +4,7 @@
       "nombre": "Espresso",
       "descripcion": "Peque?o, intenso y arom?tico.",
       "precio": "Q18",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786129386/hcaefhxfl1lhze6qvyp1.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786130625/t88xasjdjdtfar34bpek.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
@@ -13,7 +13,7 @@
       "nombre": "Pistacho Capuchino",
       "descripcion": "Cremoso con aut?ntico pistacho.",
       "precio": "Q38",
-      "imagen": null,
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786130636/nio4g8l1vs4hapwhji91.png",
       "disponible": true,
       "destacado": true,
       "orden": 2
@@ -22,7 +22,7 @@
       "nombre": "Americano",
       "descripcion": "Intenso y perfectamente equilibrado.",
       "precio": "Q22",
-      "imagen": null,
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786130627/uzfvpqfrm6qmtbao8nd6.png",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -31,7 +31,7 @@
       "nombre": "Latte",
       "descripcion": "Suave, cremoso y reconfortante.",
       "precio": "Q28",
-      "imagen": null,
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786130631/igj6oy7vtzzy43vsmwni.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -40,7 +40,7 @@
       "nombre": "Capuchino",
       "descripcion": "Espresso con espuma aterciopelada.",
       "precio": "Q28",
-      "imagen": null,
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786130629/oinsgpjxsoxvkgfp3g0j.png",
       "disponible": true,
       "destacado": true,
       "orden": 5
@@ -49,7 +49,7 @@
       "nombre": "Cafe Bomb?n",
       "descripcion": "Dulce, intenso e irresistible.",
       "precio": "Q28",
-      "imagen": null,
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1786130633/nu2ozr3lftocasjokcgw.png",
       "disponible": true,
       "destacado": true,
       "orden": 6
