@@ -1,5 +1,5 @@
 {
-  "Caf?": [
+  "Cafe": [
     {
       "nombre": "Espresso",
       "descripcion": "Peque?o, intenso y arom?tico.",
@@ -46,7 +46,7 @@
       "orden": 5
     },
     {
-      "nombre": "Caf? Bomb?n",
+      "nombre": "Cafe Bomb?n",
       "descripcion": "Dulce, intenso e irresistible.",
       "precio": "Q28",
       "imagen": null,
