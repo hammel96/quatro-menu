@@ -4,7 +4,7 @@
       "nombre": "Espresso",
       "descripcion": "Concentrado, intenso y aromatico.",
       "precio": "Q18",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798892/t8bugaxlb45sqt0s1ztx.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798937/eu6lriml99fwcdsx4x8h.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
@@ -13,7 +13,7 @@
       "nombre": "Americano",
       "descripcion": "Intenso y perfectamente equilibrado.",
       "precio": "Q22",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798894/geacmtflbt0trfe00xyx.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798939/fr02gov9wl1l7yd1p5ve.png",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -22,7 +22,7 @@
       "nombre": "Flat White",
       "descripcion": "Espresso Intenso con leche vaporizada, suave, cremoso y perfectamente equilibrado.",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798895/jds7ismbd8utxz0izp1h.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798940/qwfcx1ofsscdyz93tqxt.png",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -31,7 +31,7 @@
       "nombre": "Cortado",
       "descripcion": "Espresso intenso con un toque de leche para lograr el equilibrio perfecto",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798897/ktx93rtjf0e8nhdcjgml.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798941/fnkqnkyyigl7fj6aengn.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -40,7 +40,7 @@
       "nombre": "Capuchino",
       "descripcion": "Suave, cremoso y reconfortante.",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798899/mdimipqg2gieketgumm5.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798943/yzdrawofax0qwtevjhoh.png",
       "disponible": true,
       "destacado": false,
       "orden": 5
@@ -49,7 +49,7 @@
       "nombre": "Pistacho Capuchino",
       "descripcion": "Cremoso con autentico pistacho.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798906/ms28exdevid60ckiinoh.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798949/dunsyw5hjanrfbokqwqe.png",
       "disponible": true,
       "destacado": false,
       "orden": 6
@@ -58,7 +58,7 @@
       "nombre": "Latte",
       "descripcion": "Suave, cremoso y reconfortante.",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798901/lvckiesfo9srrwceoddc.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798944/cwtnrxispipaiduvesru.png",
       "disponible": true,
       "destacado": false,
       "orden": 7
@@ -67,7 +67,7 @@
       "nombre": "Cafe Bombon",
       "descripcion": "Dulce, intenso e irresistible.",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798902/taf4zobv4eexzq5k33y6.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798946/gebr4xfnsyedgj13upez.png",
       "disponible": true,
       "destacado": false,
       "orden": 8
@@ -76,7 +76,7 @@
       "nombre": "Mocha",
       "descripcion": "Cafe y chocolate en armon?a.",
       "precio": "Q30",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798904/tmq4owp06zkbucfgexid.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798947/vzp18goukruqdztrgbfb.png",
       "disponible": true,
       "destacado": false,
       "orden": 9
@@ -85,7 +85,7 @@
       "nombre": "Golden Aura Latte",
       "descripcion": "Especiado, calido y reconfortante.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798907/s0zl9e8f6i62s75ostu1.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798951/tud2pduzkqobbhyx93nt.png",
       "disponible": true,
       "destacado": false,
       "orden": 10
@@ -94,7 +94,7 @@
       "nombre": "Salted Caramel Latte",
       "descripcion": "Caramelo salado en perfecta armonia.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798909/zom2nbe9zctllmshnxcr.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798953/yizlbwsf4iqt2zm2ftfn.png",
       "disponible": true,
       "destacado": false,
       "orden": 11
@@ -103,7 +103,7 @@
       "nombre": "Affogato",
       "descripcion": "Helado de vainilla ba?ado con un intenso shot de espresso. Cremoso, c?lido y deliciosamente irresistible.",
       "precio": "Q40",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798910/pe7swlddc0gqvbshaeqh.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798954/oucbe5uzsc406mgnvw2b.png",
       "disponible": true,
       "destacado": false,
       "orden": 12
@@ -114,7 +114,7 @@
       "nombre": "Chocolate",
       "descripcion": "Chocolate caliente, intenso y reconfortante.",
       "precio": "Q25",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798912/xtrh03ewrvdkditolekg.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798956/xjuwmwwndy9lltqwuqvx.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
@@ -123,7 +123,7 @@
       "nombre": "Tisana",
       "descripcion": "Flores y frutas en perfecta armonia.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798922/zqqkdomxdy0bbcp4qhnk.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798965/kpmc9tphnuj6av8x7wmu.png",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -132,7 +132,7 @@
       "nombre": "Taro",
       "descripcion": "Cremoso, delicadamente dulce y exotico.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798914/uez34skyauacfaafigxo.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798958/xbul2wyzdkeaxo9eelb8.png",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -141,7 +141,7 @@
       "nombre": "Matcha",
       "descripcion": "Inspirado en la tradicion japonesa.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798915/igzekq3odvf7lnahida5.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798959/acss5knrvbwnrvotmyly.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -150,7 +150,7 @@
       "nombre": "Cacao Infusion",
       "descripcion": "Infusion artesanal, natural y reconfortante.",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798919/jnpifknzvivk3xnscnpo.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798962/bs67qmjswvmnzq8a2uw9.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -159,7 +159,7 @@
       "nombre": "Matcha Ceremonial",
       "descripcion": "Vive la autentica ceremonia del matcha.",
       "precio": "Q60",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798917/ific3hyopnr9qcgteynm.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798961/nndnqxkxtdvqc2437gbn.png",
       "disponible": true,
       "destacado": false,
       "orden": 5
@@ -168,7 +168,7 @@
       "nombre": "Chai Signature Collection",
       "descripcion": "Cinco mezclas exclusivas inspiradas en la naturaleza.\nElephant, Turtle, Flamingo, Tiger, Orca",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798920/cbfbqaincywec6dzhpbx.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798964/ofuw3woob6aizjzipn7t.png",
       "disponible": true,
       "destacado": false,
       "orden": 6
@@ -177,7 +177,7 @@
       "nombre": "Infusion",
       "descripcion": "Mezclas premium de coco & mango o frutos rojos.",
       "precio": "Q25",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798924/djah04q0tbb34bche55b.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798966/x1hzjcv6hnlueykvnnco.png",
       "disponible": true,
       "destacado": false,
       "orden": 7
@@ -188,7 +188,7 @@
       "nombre": "Taro",
       "descripcion": "Cremoso, delicadamente dulce y exotico.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798925/tngubng52scj2qghfqyf.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798968/d7mhycobadjgzymo39hn.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
@@ -197,7 +197,7 @@
       "nombre": "Matcha",
       "descripcion": "Inspirado en la tradicion japonesa.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798927/oha6imh7kvpbyzkpmeet.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798970/onjnt9lz6qdq9uzc6j9c.png",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -206,7 +206,7 @@
       "nombre": "Matcha Ceremonial",
       "descripcion": "Vive la autentica ceremonia del matcha.",
       "precio": "Q60",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798928/icrmzptrqrxropzfqbbm.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798971/lew6pnb1lmpwvf8pe3im.png",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -215,7 +215,7 @@
       "nombre": "Cacao Infusion",
       "descripcion": "Infusion artesanal, natural y reconfortante.",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798929/ww83jcowewr0pfhkneve.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798972/gsq6iswkxbr05qus1odt.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -224,7 +224,7 @@
       "nombre": "Tisana",
       "descripcion": "Flores y frutas en perfecta armonia.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798932/dtrgu3d29tmzrzjchvhx.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798975/qgtzvnvtqxhbb5yjbw2w.png",
       "disponible": true,
       "destacado": false,
       "orden": 5
@@ -233,7 +233,7 @@
       "nombre": "Chai Signature Collection",
       "descripcion": "Cinco mezclas exclusivas inspiradas en la naturaleza.\nElephant,  Turtle,  Flamingo, Tiger,  Orca",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798931/en2fki1vxqyuculuste8.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798973/q10jthwxuohwg2ikkfoz.png",
       "disponible": true,
       "destacado": false,
       "orden": 6
@@ -242,7 +242,7 @@
       "nombre": "Infusion",
       "descripcion": "Mezclas premium de coco & mango o frutos rojos.",
       "precio": "Q25",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798934/i0ldsx86kg4ahw4hofnt.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798976/wmhbtc7ui4y89vxdr7bk.png",
       "disponible": true,
       "destacado": false,
       "orden": 7
@@ -251,7 +251,7 @@
       "nombre": "Soda Italiana ",
       "descripcion": "Refrescante, burbujeante y llena de sabor.",
       "precio": "Q28",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798935/ocd7ux5bup1v6klcpxv1.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798978/wnzpf22vse8s1ljjp4cp.png",
       "disponible": true,
       "destacado": false,
       "orden": 8
@@ -260,7 +260,7 @@
       "nombre": "Iced Caramel Latte",
       "descripcion": "Espresso intenso, leche cremosa y caramelo en perfecta armonia.",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798937/oycefdyn6sq9zcc4fg74.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798980/ngbfkkti1kypckpw7tx4.png",
       "disponible": true,
       "destacado": false,
       "orden": 9
@@ -271,7 +271,7 @@
       "nombre": "Bagel Con Queso Crema",
       "descripcion": "Bagel tostado con especias y semillas, relleno de suave y cremoso queso crema.",
       "precio": "Q35",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798939/vfwgipqsuynycufkoumb.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798982/duowatggt9reck1gytrt.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
@@ -280,7 +280,7 @@
       "nombre": "Bagel Con Queso Crema y Huevo",
       "descripcion": "Bagel tostado con especias y semillas, relleno de suave y cremoso queso crema y huevo revuelto",
       "precio": "Q40",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798941/dv0g9ab1zlctufp6j0zu.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798983/ptdoykzyjpqduhexptb6.png",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -289,7 +289,7 @@
       "nombre": "Croissant Pistacho",
       "descripcion": "Pistacho premium en cada bocado.",
       "precio": "Q38",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798946/pr5oguhy3rhun0gnefy7.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798988/qkglff8xdgfqadc1kkg1.png",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -298,7 +298,7 @@
       "nombre": "Croissant Nutella",
       "descripcion": "Nutella cremosa en hojaldre dorado.",
       "precio": "Q38",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798947/lrkibmyf0pf1mwbdhaac.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798989/rboevvtvhymfbjbstyiu.png",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -307,7 +307,7 @@
       "nombre": "Croissant Almendras",
       "descripcion": "Almendras tostadas y hojaldre artesanal.",
       "precio": "Q38",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798944/dkwedw1kxbskylrmefwq.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798986/l0ugar9lktalpkot7ha9.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -316,7 +316,7 @@
       "nombre": "Croissant Mantequilla",
       "descripcion": "El clasico frances, recien horneado.",
       "precio": "Q35",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798942/qnnjml7jllii01fddtpp.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798985/awm9mlcmvbajmlzrw9je.png",
       "disponible": true,
       "destacado": false,
       "orden": 5
@@ -325,7 +325,7 @@
       "nombre": "Galleta Chocochip",
       "descripcion": "Crujiente por fuera, suave por dentro.",
       "precio": "Q20",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798949/frlxpszrfpldl9kbcoqj.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798991/wekmq7tsi1jy8ohoxrap.png",
       "disponible": true,
       "destacado": false,
       "orden": 6
@@ -334,7 +334,7 @@
       "nombre": "Galleta Almendra",
       "descripcion": "Delicada, crujiente y llena de sabor.",
       "precio": "Q20",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798951/cchy9qxrlzvi2rtlgc25.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798992/dg1e8p0uvpmmdlxdrqlr.png",
       "disponible": true,
       "destacado": false,
       "orden": 7
@@ -343,7 +343,7 @@
       "nombre": "Empanadas Argentinas Variedad (3 U)",
       "descripcion": "Artesanales, doradas y deliciosas.",
       "precio": "Q60",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798953/ami0nhs5dg7wpbyry7on.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798994/dknbxmzsqa5gkitqo24a.png",
       "disponible": true,
       "destacado": false,
       "orden": 8
@@ -352,7 +352,7 @@
       "nombre": "Brownie Bite",
       "descripcion": "Un bocado de aut?ntico chocolate.",
       "precio": "Q15",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798954/dmqiuxzrufrb5phdeotm.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798995/kpkifki7kk5vjnw5hthk.png",
       "disponible": true,
       "destacado": false,
       "orden": 9
@@ -363,7 +363,7 @@
       "nombre": "Cazuelita De Aceitunas",
       "descripcion": "Un pequeno aperitivo con mucho sabor.",
       "precio": "Q35",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798956/xguyprxurntgjlqnevoi.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798997/koejpa24lrovuwmuxlun.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
@@ -372,7 +372,7 @@
       "nombre": "Pizza",
       "descripcion": "Quesosamente deliciosa",
       "precio": "Q60",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798957/evmisqzpd144gvn47qqq.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798999/i5da9zc5y9ot8b0egtto.png",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -381,7 +381,7 @@
       "nombre": "Tabla De Quesos",
       "descripcion": "Una seleccion sencilla de quesos, perfecta para compartir y acompanar un buen cafe o una copa de vino",
       "precio": "Q55",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798960/xxwqvapwzlcgo8gi7jxv.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787799002/umtcwd9gzi29us4aeaiy.png",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -390,7 +390,7 @@
       "nombre": "Vino",
       "descripcion": "Relajate un poco",
       "precio": "Q40",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798959/qxcrvllzg1forzsfdto7.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787799000/uu0osdfc1xht5le1rhqz.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
@@ -399,7 +399,7 @@
       "nombre": "Licor De Cafe",
       "descripcion": "Un piquete con sabor a cafe",
       "precio": "Q45",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798962/ygou0v4ynrdrm5dgtnox.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787799003/nz3m1pkermi3r9qeq2ow.png",
       "disponible": true,
       "destacado": false,
       "orden": 5
@@ -410,7 +410,7 @@
       "nombre": "Quatro Para 2",
       "descripcion": "QUATRO PARA 2\n\nPorque un buen cafe se disfruta mejor acompa?ado. \n\nTodos los d?as, de 9:00 a 11:00 a. m., disfruta tu segunda bebida al 50% de descuento.\n\n- Aplica en bebidas de cafe, te e infusiones participantes.\n-El descuento se aplica a la bebida de igual o menor precio.\n-Valido unicamente en el horario de la promocion.\n-No acumulable con otras promociones o descuentos.\n-Sujeto a disponibilidad.",
       "precio": "",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798964/jmjwgzlyr8by5wugr8xx.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787799005/tgcxflxhynq4sxdw1uqz.png",
       "disponible": true,
       "destacado": false,
       "orden": 1
@@ -419,7 +419,7 @@
       "nombre": "Emprendamos Juntos",
       "descripcion": "CAFE PARA EMPRENDEDORES\n\nPorque detras de cada emprendimiento hay grandes ideas? y muchas veces, mucho cafe.\n\nSi eres emprendedor participante del Bazar, disfruta tu:\n\nAMERICANO POR Q15 \n\nBeneficio especial para emprendedores participantes.\nPara redimirlo:\nMuestra esta imagen y menciona la promocion al personal de Quatro Cafe al momento de ordenar.\n\nPromocion exclusiva para emprendedores participantes del Bazar. No acumulable con otras promociones o descuentos.\n\nQuatro Cafe ? Heranzo\nEmprendemos juntos. ",
       "precio": "",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798965/yaueyckxcygbp6q7jnd9.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787799006/wdbfajsavtpn9smajsd2.png",
       "disponible": true,
       "destacado": false,
       "orden": 2
@@ -428,7 +428,7 @@
       "nombre": "Combo Lector",
       "descripcion": "COMBO LECTOR   Q25\n\nPorque creemos que cada historia merece un buen caf?. \n\nDisfruta un Cafe Americano + Brownie Bite mientras te pierdes entre libros, historias y mundos por descubrir. \n\nElige tu Brownie Bite favorito: Marshmallow, Clasico, Cookies & Cream o Caramelo, segun disponibilidad.",
       "precio": "",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798967/zfuethvr5yke75s5dcix.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787799007/rd8w2hxwviaqzca3akhl.png",
       "disponible": true,
       "destacado": false,
       "orden": 3
@@ -437,7 +437,7 @@
       "nombre": "Club Qu4tro",
       "descripcion": "Bienvenidos a Club Quatro\n\nPorque cada cafe merece acercarte un poquito m?s al siguiente. ?\n\nPresentamos nuestra tarjeta de lealtad Quatro Club: disfruta tus bebidas favoritas, acumula visitas y dejanos consentirte por ser parte de nuestra comunidad.\n\nCompra, disfruta, colecciona tus sellos? y cuando completes tu tarjeta, tu proximo cafe va por nuestra cuenta. ???\n\nLa cortesia aplica para Americano, Cappuccino, Latte, Espresso o Cafe Bombon.",
       "precio": "",
-      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787798968/ejpt9e7f113lxiyo8vnk.png",
+      "imagen": "https://res.cloudinary.com/wmsyx9al/image/upload/v1787799009/ed9i0pznpcirvixyuqxg.png",
       "disponible": true,
       "destacado": false,
       "orden": 4
